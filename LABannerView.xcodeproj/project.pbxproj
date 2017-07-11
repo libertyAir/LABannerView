@@ -15,6 +15,7 @@
 		17F85B831F14716D00B89A69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17F85B811F14716D00B89A69 /* LaunchScreen.storyboard */; };
 		17F85B8D1F1471A800B89A69 /* LABannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F85B8C1F1471A800B89A69 /* LABannerView.m */; };
 		17F85B901F1471B100B89A69 /* UIView+Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F85B8F1F1471B100B89A69 /* UIView+Common.m */; };
+		17F85B921F14785600B89A69 /* ppp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17F85B911F14785600B89A69 /* ppp.jpg */; };
 		A53BE7E8745B08E0157DC061 /* libPods-LABannerView.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EB43CEE0E5CFAF851F762488 /* libPods-LABannerView.a */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		17F85B8C1F1471A800B89A69 /* LABannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LABannerView.m; sourceTree = "<group>"; };
 		17F85B8E1F1471B100B89A69 /* UIView+Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Common.h"; sourceTree = "<group>"; };
 		17F85B8F1F1471B100B89A69 /* UIView+Common.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Common.m"; sourceTree = "<group>"; };
+		17F85B911F14785600B89A69 /* ppp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ppp.jpg; sourceTree = "<group>"; };
 		E1A41D28AA8D6A1608DB4CEB /* Pods-LABannerView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LABannerView.release.xcconfig"; path = "Pods/Target Support Files/Pods-LABannerView/Pods-LABannerView.release.xcconfig"; sourceTree = "<group>"; };
 		EB43CEE0E5CFAF851F762488 /* libPods-LABannerView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LABannerView.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -94,6 +96,7 @@
 		17F85B731F14716D00B89A69 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				17F85B911F14785600B89A69 /* ppp.jpg */,
 				17F85B7C1F14716D00B89A69 /* Main.storyboard */,
 				17F85B7F1F14716D00B89A69 /* Assets.xcassets */,
 				17F85B811F14716D00B89A69 /* LaunchScreen.storyboard */,
@@ -185,6 +188,7 @@
 			files = (
 				17F85B831F14716D00B89A69 /* LaunchScreen.storyboard in Resources */,
 				17F85B801F14716D00B89A69 /* Assets.xcassets in Resources */,
+				17F85B921F14785600B89A69 /* ppp.jpg in Resources */,
 				17F85B7E1F14716D00B89A69 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
