@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		0820BE6ECF21510F7FBF478F /* Pods-LABannerView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LABannerView.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LABannerView/Pods-LABannerView.debug.xcconfig"; sourceTree = "<group>"; };
-		17F85B701F14716D00B89A69 /* LABannerViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LABannerViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		17F85B701F14716D00B89A69 /* LABannerView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LABannerView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17F85B741F14716D00B89A69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		17F85B761F14716D00B89A69 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		17F85B771F14716D00B89A69 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 		17F85B711F14716D00B89A69 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				17F85B701F14716D00B89A69 /* LABannerViewExample.app */,
+				17F85B701F14716D00B89A69 /* LABannerView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,9 +124,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		17F85B6F1F14716D00B89A69 /* LABannerViewExample */ = {
+		17F85B6F1F14716D00B89A69 /* LABannerView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17F85B871F14716D00B89A69 /* Build configuration list for PBXNativeTarget "LABannerViewExample" */;
+			buildConfigurationList = 17F85B871F14716D00B89A69 /* Build configuration list for PBXNativeTarget "LABannerView" */;
 			buildPhases = (
 				2A69611B4A58ABEEDECF83AF /* [CP] Check Pods Manifest.lock */,
 				17F85B6C1F14716D00B89A69 /* Sources */,
@@ -139,9 +139,9 @@
 			);
 			dependencies = (
 			);
-			name = LABannerViewExample;
+			name = LABannerView;
 			productName = LABannerView;
-			productReference = 17F85B701F14716D00B89A69 /* LABannerViewExample.app */;
+			productReference = 17F85B701F14716D00B89A69 /* LABannerView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -160,7 +160,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 17F85B6B1F14716D00B89A69 /* Build configuration list for PBXProject "LABannerViewExample" */;
+			buildConfigurationList = 17F85B6B1F14716D00B89A69 /* Build configuration list for PBXProject "LABannerView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -173,7 +173,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				17F85B6F1F14716D00B89A69 /* LABannerViewExample */,
+				17F85B6F1F14716D00B89A69 /* LABannerView */,
 			);
 		};
 /* End PBXProject section */
@@ -395,7 +395,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		17F85B6B1F14716D00B89A69 /* Build configuration list for PBXProject "LABannerViewExample" */ = {
+		17F85B6B1F14716D00B89A69 /* Build configuration list for PBXProject "LABannerView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17F85B851F14716D00B89A69 /* Debug */,
@@ -404,7 +404,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17F85B871F14716D00B89A69 /* Build configuration list for PBXNativeTarget "LABannerViewExample" */ = {
+		17F85B871F14716D00B89A69 /* Build configuration list for PBXNativeTarget "LABannerView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17F85B881F14716D00B89A69 /* Debug */,

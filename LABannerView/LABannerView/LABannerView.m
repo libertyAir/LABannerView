@@ -264,14 +264,14 @@
 #pragma mark - Setter
 - (void)setImageURLArray:(NSMutableArray<NSString *> *)imageURLArray{
     
-    _imageURLArray = imageURLArray;
+    _imageURLArray = [NSMutableArray arrayWithArray:imageURLArray];
     
     [self updateViews];
 }
 
 
 - (void)setImageGotoURLs:(NSMutableArray<NSString *> *)imageGotoURLs{
-    _imageGotoURLs = imageGotoURLs;
+    _imageGotoURLs = [NSMutableArray arrayWithArray:imageGotoURLs];
 }
 
 - (void)setBannerImageArray:(NSArray<BannerImageModel *> *)bannerImageArray{
