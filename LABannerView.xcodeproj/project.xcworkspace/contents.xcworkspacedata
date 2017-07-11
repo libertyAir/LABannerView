@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:LABannerView.xcodeproj">
+      location = "self:/Users/libertyAir/Documents/LABannerView/LABannerViewExample.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "17F85B6F1F14716D00B89A69"
-               BuildableName = "LABannerView.app"
-               BlueprintName = "LABannerView"
-               ReferencedContainer = "container:LABannerView.xcodeproj">
+               BuildableName = "LABannerViewExample.app"
+               BlueprintName = "LABannerViewExample"
+               ReferencedContainer = "container:LABannerViewExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17F85B6F1F14716D00B89A69"
-            BuildableName = "LABannerView.app"
-            BlueprintName = "LABannerView"
-            ReferencedContainer = "container:LABannerView.xcodeproj">
+            BuildableName = "LABannerViewExample.app"
+            BlueprintName = "LABannerViewExample"
+            ReferencedContainer = "container:LABannerViewExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17F85B6F1F14716D00B89A69"
-            BuildableName = "LABannerView.app"
-            BlueprintName = "LABannerView"
-            ReferencedContainer = "container:LABannerView.xcodeproj">
+            BuildableName = "LABannerViewExample.app"
+            BlueprintName = "LABannerViewExample"
+            ReferencedContainer = "container:LABannerViewExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17F85B6F1F14716D00B89A69"
-            BuildableName = "LABannerView.app"
-            BlueprintName = "LABannerView"
-            ReferencedContainer = "container:LABannerView.xcodeproj">
+            BuildableName = "LABannerViewExample.app"
+            BlueprintName = "LABannerViewExample"
+            ReferencedContainer = "container:LABannerViewExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
